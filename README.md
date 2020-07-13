@@ -3,8 +3,8 @@
 <i>Specialisation in web & mobile development</i></p>
 
 [![Twitter: VanCutsemElian](https://img.shields.io/twitter/follow/vancutsemelian?style=social)](https://twitter.com/vancutsemelian)
-[![Linkedin: elianvancutsem](https://img.shields.io/badge/-thaianebraga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianvancutsem/)](https://www.linkedin.com/in/elianvancutsem/)
-[![GitHub elianvancutsem](https://img.shields.io/github/followers/elianvancutsem?label=follow&style=social)](https://github.com/elianvancutsem)
+[![Linkedin: elianvancutsem](https://img.shields.io/badge/-ElianVanCutsem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianvancutsem/)](https://www.linkedin.com/in/elianvancutsem/)
+[![GitHub elianvancutsem](https://img.shields.io/github/followers/elianvancutsem?label=follow-ElianVanCutsem&style=social)](https://github.com/elianvancutsem)
 
 
 <h3>More about me...</h3>
