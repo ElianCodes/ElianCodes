@@ -1,8 +1,16 @@
-## hello there
+<h2>Hello, I'm Elian Van Cutsem</h2>
+<p><i>Student in Computer Science at <a href="https://www.odisee.be/" target="_blank">Odisee University of Applied Science</a></i><br />
+<i>Specialisation in web & mobile development</i></p>
 
-I'm Elian Van Cutsem, I'm a grad student in Coputer Science with a specialisation in web & mobile. At the moment I'm coding in a lot of different languages and having fun on all kinds of platforms.
+<h3>More about me...</h3>
 
-On this account you'll find lots of repositories with coding practices or templates for websites. I'm also a heavy linux user, so probably you can find some linux code somewhere.
+```javascript
+const elian = {
+  Cleancoder: true,
+  Languages: [Java, C#, Arduino, Javascript, Vue, PHP, Laravel, CSS, SASS, HTML,],
+  Tools: [VS Code, Visual Studio, Git, Docker, Jetbrains IDE,],
+}
+```
 
 ## Get in touch
 
