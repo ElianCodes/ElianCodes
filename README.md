@@ -13,7 +13,7 @@
 const elian = {
   Age: 21,
   Cleancoder: true,
-  ArticCodeVaultContributor: true,
+  ArcticCodeVaultContributor: true,
   Coding : {
     FrontEnd: {
       HTML: true,
