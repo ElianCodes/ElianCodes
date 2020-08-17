@@ -24,7 +24,7 @@ const elian = {
     BackEnd: {
       Javascript: "JQuery",
       Java: true,
-      C#: true,
+      C#: ["OO", "ADO.NET", "LINQ", "SOLID-patterns"],
       PHP: "Laravel",
       Python: "Jupyter Notebook"
     },
