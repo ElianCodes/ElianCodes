@@ -26,10 +26,11 @@ const elian = {
       Java: true,
       C#: ["OO", "ADO.NET", "LINQ", "SOLID-patterns"],
       PHP: "Laravel",
-      Python: "Jupyter Notebook"
+      Python: ["Scikit-learn", "NumPy", "Pandas", "Jupyter Notebook"]
     },
     Misc: ["Arduino", "Bash"],
     Databases: {
+      Normalization: ["1NF", "2NF", "3NF"],
       SQL: ["MySQL", "SQLServer", "SQLight"],
       NoSQL: ["MongoDB"]
     }
