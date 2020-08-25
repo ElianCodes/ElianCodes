@@ -41,7 +41,7 @@ const elian = {
 ```
 
 ![ElianVanCutsem's github stats](https://github-readme-stats.vercel.app/api?username=ElianVanCutsem&show_icons=true&hide_border=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianvancutsem&theme=light&hide=css,HTML" alt="Elian's coding languages" /><br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianvancutsem&theme=light&hide=css,HTML,Jupyter%20Notebook" alt="Elian's coding languages" /><br />
 
 ## Get in touch
 
