@@ -17,13 +17,12 @@ const elian = {
   Coding : {
     FrontEnd: {
       HTML: true,
-      Javascript: ["Vue", "React"],
+      Javascript: ["Vue", "React", "JQuery"],
       C#: "Razor",
       CSS: ["SCSS", "SASS", "Bootstrap"],
       PHP: ["Blade", "Twig"]
     },
     BackEnd: {
-      Javascript: "JQuery",
       Java: true,
       C#: ["OO", "ADO.NET", "LINQ", "ASP.NET"],
       PHP: "Laravel",
