@@ -34,7 +34,7 @@ const elian = {
       SQL: ["MySQL", "SQLServer", "SQLight"],
       NoSQL: ["MongoDB"]
     },
-    Cloud services: ["Azure", "Atlas"]
+    CloudServices: ["Azure", "Atlas"]
   },
   JobInterests: ["Full Stack developer", "Webdeveloper", "Software Engineer"],
   Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman"],
