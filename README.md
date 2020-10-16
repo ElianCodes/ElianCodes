@@ -13,19 +13,19 @@
 const elian = {
   Age: 21,
   Cleancoder: true,
-  ArcticCodeVaultContributor: true,
   Coding : {
     FrontEnd: {
       HTML: true,
-      Javascript: ["Vue", "React", "JQuery"],
-      C#: "Razor",
-      CSS: ["SCSS", "SASS", "Bootstrap"],
+      JavaScript: ["Vue", "React", "JQuery"],
+      C#: ["Razor"],
+      CSS: ["SCSS", "SASS", "Bootstrap", "TailwindCSS"],
       PHP: ["Blade", "Twig"]
     },
     BackEnd: {
-      Java: true,
+      Java: ["Spring"],
+      JavaScript: ["Node.js", "Express.js"],
       C#: ["OO", "ADO.NET", "LINQ", "ASP.NET"],
-      PHP: "Laravel",
+      PHP: ["Laravel"],
       Python: ["Scikit-learn", "NumPy", "Pandas", "Jupyter Notebook"]
     },
     Misc: ["Arduino", "Bash"],
@@ -33,10 +33,11 @@ const elian = {
       Normalization: ["1NF", "2NF", "3NF"],
       SQL: ["MySQL", "SQLServer", "SQLight"],
       NoSQL: ["MongoDB"]
-    }
+    },
+    Cloud services: ["Azure", "Atlas"]
   },
   JobInterests: ["Full Stack developer", "Webdeveloper", "Software Engineer"],
-  Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE"],
+  Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman"],
 }
 ```
 
