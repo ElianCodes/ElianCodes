@@ -31,7 +31,7 @@ const elian = {
     Misc: ["Arduino", "Bash"],
     Databases: {
       Normalization: ["1NF", "2NF", "3NF"],
-      SQL: ["MySQL", "SQLServer", "SQLight"],
+      SQL: ["MySQL", "SQLServer", "SQLite"],
       NoSQL: ["MongoDB"]
     },
     CloudServices: ["Azure", "Atlas"]
