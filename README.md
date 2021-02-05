@@ -1,6 +1,5 @@
 <h2>Hello, I'm Elian Van Cutsem</h2>
-<p><i>Student in Computer Science at <a href="https://www.odisee.be/" target="_blank">Odisee University of Applied Science</a></i><br />
-<i>Specialisation in web & mobile development</i></p>
+<p>👋</span>&nbsp;Hello there! My name is Elian Van Cutsem. I'm a Student and software engineer from belgium. At the moment I'm doing an internship @<a href="https://vbridge.eu" target="_blank">vBridge</a> while finishing my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I'm still learning lots of new technologies and skills everyday. On Github I try to show off some projects I worked on.</p>
 
 [![Twitter: VanCutsemElian](https://img.shields.io/twitter/follow/vancutsemelian?style=social)](https://twitter.com/vancutsemelian)
 [![Linkedin: elianvancutsem](https://img.shields.io/badge/-ElianVanCutsem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianvancutsem/)](https://www.linkedin.com/in/elianvancutsem/)
