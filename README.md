@@ -41,7 +41,7 @@ const elian = {
 ```
 
 ![ElianVanCutsem's github stats](https://github-readme-stats.vercel.app/api?username=ElianVanCutsem&show_icons=true&hide_border=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianvancutsem&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact" alt="Elian's coding languages" /><br />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianvancutsem&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20" alt="Elian's coding languages" /><br />
 [![Elian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elianvancutsem&layout=compact)](https://github.com/elianvancutsem)
 
 
