@@ -6,7 +6,7 @@
 [![GitHub elianvancutsem](https://img.shields.io/github/followers/elianvancutsem?label=follow-ElianVanCutsem&style=social)](https://github.com/elianvancutsem)
 
 
-<h3>More about me...</h3>
+### More about me...
 
 ```javascript
 const elian = {
@@ -15,7 +15,8 @@ const elian = {
     Coding : {
         FrontEnd: {
             HTML: true,
-            JavaScript: ["Vue", "React", "JQuery"],
+            JavaScript: ["Vue", "React", "JQuery", "NuxtJS", "Svelte"],
+            TypeScript: true,
             'C#': ["Razor"],
             CSS: ["SCSS", "SASS", "Bootstrap", "TailwindCSS"],
             PHP: ["Blade", "Twig"]
@@ -23,18 +24,21 @@ const elian = {
         BackEnd: {
             Java: ["Spring"],
             JavaScript: ["Node.js", "Express.js"],
+            TypeScript: ["Deno"],
             'C#': ["OO", "ADO.NET", "LINQ", "ASP.NET"],
             PHP: ["Laravel"],
             Python: ["Scikit-learn", "NumPy", "Pandas", "Jupyter Notebook"]
         },
+        Mobile: ["React-Native", "Flutter"],
         Misc: ["Arduino", "Bash"],
         Databases: {
             Normalization: ["1NF", "2NF", "3NF"],
             SQL: ["MySQL", "SQLServer", "SQLite"],
             NoSQL: ["MongoDB"]
         },
-        CloudServices: ["Azure", "Atlas"]
+        CloudServices: ["Azure", "MongoDB Atlas", "Vercel", "Netlify"]
     },
+    CICD: ["Travis CI", "GitHub Actions"],
     JobInterests: ["Full Stack developer", "Webdeveloper", "Software Engineer"],
     Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman"],
 }
