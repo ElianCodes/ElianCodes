@@ -62,3 +62,4 @@ const elian = {
 ### Leave me a tip
 
 - [Sponsor me on Github](<https://github.com/sponsors/ElianVanCutsem>)
+- [Buy Me A Coffee](<https://www.buymeacoffee.com/elianvancutsem>)
