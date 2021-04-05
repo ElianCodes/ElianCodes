@@ -1,14 +1,17 @@
-<h2>Hello, I'm Elian Van Cutsem</h2>
-<p>👋</span>&nbsp;Hello there! My name is Elian Van Cutsem. I'm a Student and software engineer from belgium. At the moment I'm doing an internship @<a href="https://vbridge.eu" target="_blank">vBridge</a> while finishing my Computer Science degree @<a href="https://www.odisee.be/en" target="_blank">Odisee</a>. I'm still learning lots of new technologies and skills everyday. On Github I try to show off some projects I worked on.</p>
+# 👋&nbsp;Hello, I'm Elian Van Cutsem
+
+Hello there! My name is Elian. I'm a Student and software engineer from belgium. At the moment I'm doing an internship @[vBridge](<https://vbridge.eu>) while finishing my Computer Science degree @[Odisee](<https://www.odisee.be/en>). I'm still learning lots of new technologies and skills everyday. On Github I try to show off some projects I worked on.
+
+## Follow me
 
 [![Twitter: VanCutsemElian](https://img.shields.io/twitter/follow/vancutsemelian?style=social)](https://twitter.com/vancutsemelian)
 [![Linkedin: elianvancutsem](https://img.shields.io/badge/-ElianVanCutsem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianvancutsem/)](https://www.linkedin.com/in/elianvancutsem/)
 [![GitHub elianvancutsem](https://img.shields.io/github/followers/elianvancutsem?label=follow-ElianVanCutsem&style=social)](https://github.com/elianvancutsem)
 
 
-### More about me...
+## More about me...
 
-```javascript
+```js
 const elian = {
     Age: new Date().getFullYear() - 1999,
     Cleancoder: true,
@@ -55,3 +58,7 @@ const elian = {
 - [LinkedIn](<https://www.linkedin.com/in/elianvancutsem/>)
 - [email](<mailto:elianvancutsem@gmail.com>)
 - [website](<http://www.elianvancutsem.com>)
+
+### Leave me a tip
+
+- [Sponsor me on Github](<https://github.com/sponsors/ElianVanCutsem>)
