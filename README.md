@@ -20,7 +20,7 @@ const elian = {
             HTML: true,
             JavaScript: ["Vue", "React", "JQuery", "NuxtJS", "Svelte"],
             TypeScript: true,
-            'C#': ["Razor"],
+            'C#': ["Blazor (WASM)"],
             CSS: ["SCSS", "SASS", "Bootstrap", "TailwindCSS"],
             PHP: ["Blade", "Twig"]
         },
@@ -28,9 +28,8 @@ const elian = {
             Java: ["Spring"],
             JavaScript: ["Node.js", "Express.js"],
             TypeScript: ["Deno"],
-            'C#': ["OO", "ADO.NET", "LINQ", "ASP.NET"],
+            'C#': ["dotnet"],
             PHP: ["Laravel"],
-            Python: ["Scikit-learn", "NumPy", "Pandas", "Jupyter Notebook"]
         },
         Mobile: ["React-Native", "Flutter"],
         Misc: ["Arduino", "Bash"],
@@ -39,9 +38,9 @@ const elian = {
             SQL: ["MySQL", "SQLServer", "SQLite"],
             NoSQL: ["MongoDB"]
         },
-        CloudServices: ["Azure", "MongoDB Atlas", "Vercel", "Netlify"]
+        CloudServices: ["Azure", "Google Cloud", "MongoDB Atlas", "Vercel", "Netlify"]
     },
-    CICD: ["Travis CI", "GitHub Actions"],
+    CICD: ["Travis CI", "GitHub Actions", "Cloud Build"],
     JobInterests: ["Full Stack developer", "Webdeveloper", "Software Engineer"],
     Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman"],
 }
