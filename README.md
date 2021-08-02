@@ -1,6 +1,6 @@
 # 👋&nbsp;Hello, I'm Elian Van Cutsem
 
-Hello there! My name is Elian. I'm a Student and software engineer from belgium. At the moment I'm doing an internship @[vBridge](<https://vbridge.eu>) while finishing my Computer Science degree @[Odisee](<https://www.odisee.be/en>). I'm still learning lots of new technologies and skills everyday. On Github I try to show off some projects I worked on.
+Hello there! My name is Elian. I'm a Student and software engineer from belgium. At the moment I'm working part-time @[vBridge](<https://vbridge.eu>) while finishing my Computer Science degree @[Odisee](<https://www.odisee.be/en>). I'm still learning lots of new technologies and skills everyday. On Github I try to show off some projects I worked on.
 
 ## Follow me
 
