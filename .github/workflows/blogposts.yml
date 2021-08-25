@@ -1,0 +1,16 @@
+name: Update Blogposts
+on:
+  schedule:
+    # Run it every hour
+    - cron: "0 * * * *"
+  workflow_dispatch:
+jobs:
+  # https://github.com/gautamkrishnar/blog-post-workflow
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://www.elian.codes/blog.xml"
