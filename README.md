@@ -13,11 +13,11 @@ Hello there! My name is Elian. I'm a Student and software engineer from belgium.
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [📝 Add your blogposts to your Github README](https://www.elian.codes/blog/26-08-21-adding-your-blogposts-to-your-github-readme/)
 - [🥳 Describe your commits using Gitmoji](https://www.elian.codes/blog/20-08-21-describe-your-commits-using-gitmoji/)
 - [🚀 Using Surge.sh to quickly deploy a static site](https://www.elian.codes/blog/using-surge-to-quickly-deploy-a-static-site/)
 - [✨ Moving on from Netlify to Google Cloud](https://www.elian.codes/blog/moving-on-from-netlify-to-google-cloud/)
 - [💄 Adding Google Fonts to your NuxtJS site](https://www.elian.codes/blog/adding-google-fonts-to-your-nuxtjs-site/)
-- [💄 Writing your own style components with TailwindCSS and Sass](https://www.elian.codes/blog/writing-your-own-components-with-tailwind-sass/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
