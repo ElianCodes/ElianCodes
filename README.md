@@ -13,11 +13,11 @@ Hello there! My name is Elian. I'm a Student and software engineer from belgium.
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [♻️ Using PNPM on Netlify](https://www.elian.codes/blog/09-27-21-using-pnpm-on-netlify/)
 - [✨ Using slots to build layouts in Astro](https://www.elian.codes/blog/09-25-21-using-slots-to-build-layouts-in-astro/)
 - [✨ Setting up Nuxt with Pug and Stylus](https://www.elian.codes/blog/1-09-21-setting-up-nuxt-with-pug-and-stylus/)
 - [📝 Add your blogposts to your Github README](https://www.elian.codes/blog/26-08-21-adding-your-blogposts-to-your-github-readme/)
 - [🥳 Describe your commits using Gitmoji](https://www.elian.codes/blog/20-08-21-describe-your-commits-using-gitmoji/)
-- [🚀 Using Surge.sh to quickly deploy a static site](https://www.elian.codes/blog/using-surge-to-quickly-deploy-a-static-site/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
