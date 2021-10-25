@@ -22,38 +22,38 @@ Hello there! My name is Elian. I'm a Student and software engineer from belgium.
 
 ## 💼  My Skills
 
-```js
+```javascript
 const elian = {
     Age: new Date().getFullYear() - 1999,
     Cleancoder: true,
     Coding : {
         FrontEnd: {
-            HTML: true,
-            JavaScript: ["Vue", "React", "JQuery", "NuxtJS", "Svelte"],
+            HTML: ["Pug"],
+            JavaScript: ["JQuery", "Vue", "React", "Svelte", "Astro", "NuxtJS", "NextJS", "SvelteKit"],
             TypeScript: true,
             'C#': ["Blazor (WASM)"],
-            CSS: ["SCSS", "SASS", "Bootstrap", "TailwindCSS"],
+            CSS: ["SCSS", "SASS", "Stylus", "PostCSS", "Bootstrap", "TailwindCSS"],
             PHP: ["Blade", "Twig"]
         },
         BackEnd: {
             Java: ["Spring"],
-            JavaScript: ["Node.js", "Express.js"],
+            JavaScript: ["Node.js", "Express.js", "NestJS", "WebPack", "Vite"],
             TypeScript: ["Deno"],
             'C#': ["dotnet"],
-            PHP: ["Laravel"],
+            PHP: ["Laravel", "Symfony"],
         },
-        Mobile: ["React-Native", "Flutter"],
+        Mobile: ["React-Native", "Flutter", "Capacitor"],
         Misc: ["Arduino", "Bash"],
         Databases: {
             Normalization: ["1NF", "2NF", "3NF"],
             SQL: ["MySQL", "SQLServer", "SQLite"],
             NoSQL: ["MongoDB"]
         },
-        CloudServices: ["Azure", "Google Cloud", "MongoDB Atlas", "Vercel", "Netlify"]
+        CloudServices: ["Azure", "Google Cloud", "MongoDB Atlas", "Vercel", "Netlify", "Cloudflare"]
     },
     CICD: ["Travis CI", "GitHub Actions", "Cloud Build"],
     JobInterests: ["Full Stack developer", "Webdeveloper", "Software Engineer"],
-    Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman"],
+    Tools: ["VS Code", "Visual Studio", "Git", "Docker", "Jetbrains IDE", "Postman", "WSL"],
 }
 ```
 
