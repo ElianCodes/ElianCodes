@@ -65,10 +65,11 @@ const elian = {
 
 ## ✏️ Get in touch
 
-- [Twitter](<https://www.twitter.com/vancutsemelian>)
+- [Twitter](<https://www.twitter.com/htmelian>)
 - [LinkedIn](<https://www.linkedin.com/in/elianvancutsem/>)
-- [email](<mailto:elianvancutsem@gmail.com>)
-- [website](<http://www.elianvancutsem.com>)
+- [Polywork](<https://www.polywork.com/htmelian>)
+- [email](<mailto:hello@elian.codes>)
+- [website](<http://www.elian.codes>)
 
 ### ☕️ Leave me a tip
 
