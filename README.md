@@ -13,11 +13,11 @@ Hello there! My name is Elian. I'm a Student and software engineer from belgium.
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [🔧 Set your NodeJS version in Netlify](https://www.elian.codes/blog/12-03-21-set-your-node-version-in-netlify/)
 - [🔧 Use NODE-ENV and other environment variables in Astro](https://www.elian.codes/blog/10-15-21-use-node-env-in-astro/)
 - [🎉 Write less code by using CSS Houdini](https://www.elian.codes/blog/10-13-21-adding-css-houdini/)
 - [👽 Use API magic to show your most visited pages](https://www.elian.codes/blog/10-04-21-use-api-magic-to-show-most-visited-pages/)
 - [💄 What&#39;s new in TailwindCSS v3](https://www.elian.codes/blog/10-03-21-what-is-new-in-tailwindv3/)
-- [♻️ Using PNPM on Netlify](https://www.elian.codes/blog/09-27-21-using-pnpm-on-netlify/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
