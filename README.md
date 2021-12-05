@@ -65,7 +65,7 @@ const elian = {
 
 ## ✏️ Get in touch
 
-- [Twitter](<https://www.twitter.com/htmelian>)
+- [Twitter](<https://www.twitter.com/eliancodes>)
 - [LinkedIn](<https://www.linkedin.com/in/elianvancutsem/>)
 - [Polywork](<https://www.polywork.com/htmelian>)
 - [email](<mailto:hello@elian.codes>)
