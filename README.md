@@ -6,9 +6,9 @@ Hello there! My name is Elian. I'm a Student and software engineer from belgium.
 
 ## 🤟 Follow me
 
-[![Twitter: VanCutsemElian](https://img.shields.io/twitter/follow/htmelian?style=social)](https://twitter.com/htmelian)
+[![Twitter: eliancodes](https://img.shields.io/twitter/follow/eliancodes?style=social)](https://twitter.com/eliancodes)
 [![Linkedin: elianvancutsem](https://img.shields.io/badge/-ElianVanCutsem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianvancutsem/)](https://www.linkedin.com/in/elianvancutsem/)
-[![GitHub elianvancutsem](https://img.shields.io/github/followers/elianvancutsem?label=follow-ElianVanCutsem&style=social)](https://github.com/elianvancutsem)
+[![GitHub eliancodes](https://img.shields.io/github/followers/eliancodes?label=follow-eliancodes&style=social)](https://github.com/eliancodes)
 
 ## 📝 Latest Blogposts
 
@@ -59,9 +59,9 @@ const elian = {
 
 ## 📉 Some statistics
 
-![ElianVanCutsem's github stats](https://github-readme-stats.vercel.app/api?username=ElianVanCutsem&show_icons=true&hide_border=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elianvancutsem&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20" alt="Elian's coding languages" /><br />
-[![Elian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elianvancutsem&layout=compact)](https://github.com/elianvancutsem)
+![ElianVanCutsem's github stats](https://github-readme-stats.vercel.app/api?username=eliancodes&show_icons=true&hide_border=true)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliancodes&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20" alt="Elian's coding languages" /><br />
+[![Elian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elianvancutsem&layout=compact)](https://github.com/eliancodes)
 
 ## ✏️ Get in touch
 
