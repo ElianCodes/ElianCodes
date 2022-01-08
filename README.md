@@ -13,11 +13,11 @@ Hello there! My name is Elian. I'm a Student and software engineer from belgium.
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
-- [💄 Using Tailwind CLI with Blazor](https://www.elian.codes/blog/12-16-21-using-tailwind-cli-with-blazor/)
-- [🔍 How I automated SEO to fit my needs](https://www.elian.codes/blog/12-10-21-how-i-automated-seo-to-fit-my-needs/)
-- [💄 Use TailwindCSS with Sveltekit &lpar;2021&rpar;](https://www.elian.codes/blog/12-05-21-use-tailwindcss-with-sveltekit-2021/)
-- [🔧 Set your NodeJS version in Netlify](https://www.elian.codes/blog/12-03-21-set-your-node-version-in-netlify/)
-- [🔧 Use NODE-ENV and other environment variables in Astro](https://www.elian.codes/blog/10-15-21-use-node-env-in-astro/)
+- [💄 Using Tailwind CLI with Blazor](https://www.elian.codes/12-16-21-using-tailwind-cli-with-blazor/)
+- [🔍 How I automated SEO to fit my needs](https://www.elian.codes/12-10-21-how-i-automated-seo-to-fit-my-needs/)
+- [💄 Use TailwindCSS with Sveltekit &lpar;2021&rpar;](https://www.elian.codes/12-05-21-use-tailwindcss-with-sveltekit-2021/)
+- [🔧 Set your NodeJS version in Netlify](https://www.elian.codes/12-03-21-set-your-node-version-in-netlify/)
+- [🎉 Write less code by using CSS Houdini](https://www.elian.codes/10-13-21-adding-css-houdini/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
