@@ -16,10 +16,10 @@ Yes, just like everyone, I do have a blog and write about stuff I want to share 
 
 <!-- BLOG-POST-LIST:START -->
 - [💄 Tailwind CSS in Astro](https://www.elian.codes/blog/04-23-22-use-tailwind-with-astro/)
+- [🎤 Less JavaScript, Faster website - Astro](https://www.elian.codes/blog/04-20-22-less-javascript-faster-website/)
 - [💄 Using Tailwind CLI with Blazor](https://www.elian.codes/blog/12-16-21-using-tailwind-cli-with-blazor/)
 - [🔍 How I automated SEO to fit my needs](https://www.elian.codes/blog/12-10-21-how-i-automated-seo-to-fit-my-needs/)
 - [💄 Use TailwindCSS with Sveltekit &lpar;2021&rpar;](https://www.elian.codes/blog/12-05-21-use-tailwindcss-with-sveltekit-2021/)
-- [🔧 Set your NodeJS version in Netlify](https://www.elian.codes/blog/12-03-21-set-your-node-version-in-netlify/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
