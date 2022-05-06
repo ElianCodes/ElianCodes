@@ -15,11 +15,11 @@ I’m a software engineer and web developer based in 🇧🇪 working [@vbridge]
 Yes, just like everyone, I do have a blog and write about stuff I want to share with the world!
 
 <!-- BLOG-POST-LIST:START -->
+- [🚀 Deploying Astro on Deno](https://www.elian.codes/blog/22-05-06-deploying-astro-on-deno/)
 - [📈 Using @elianvancutsem/mostvisitedpages as a serverless function](https://www.elian.codes/blog/22-05-02-using-mostvisitedpages-as-a-function/)
 - [♻️ Upgrading my website to Astro v1.0](https://www.elian.codes/blog/22-04-26-upgrading-to-astro-beta-one/)
 - [💄 Tailwind CSS in Astro](https://www.elian.codes/blog/04-23-22-use-tailwind-with-astro/)
 - [🎤 Less JavaScript, Faster website - Astro](https://www.elian.codes/blog/04-20-22-less-javascript-faster-website/)
-- [💄 Using Tailwind CLI with Blazor](https://www.elian.codes/blog/12-16-21-using-tailwind-cli-with-blazor/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
