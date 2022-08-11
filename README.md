@@ -2,7 +2,11 @@
 
 # 👋 Hi there!
 
-I’m a software engineer and web developer based in 🇧🇪 working [@vbridge](<https://www.vbridge.eu>).
+I'm a Software Engineer based in 🇧🇪 working [@vbridge](<https://www.vbridge.eu>), where I started a couple years ago as an intern. I have a strong focus on design, front-end development and cloud native web-applications with the emphasis on personalisation and technical innovation. Next to pure development, I'm part of a community where I supports many companies in their IT story, and through his work connecting people, via the cloud and in real life.
+
+I'm always available for a chat or drink.
+
+When I'm not behind my computer, I'm behind the turntables trying to give the people an unforgettable night!
 
 ## 🤟 Follow me here
 
