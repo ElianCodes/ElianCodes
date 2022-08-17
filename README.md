@@ -19,11 +19,11 @@ When I'm not behind my computer, I'm behind the turntables trying to give the pe
 Yes, just like everyone, I do have a blog and write about stuff I want to share with the world!
 
 <!-- BLOG-POST-LIST:START -->
+- [♻️ Using Firebase JSON config for redirects](https://www.elian.codes/blog/22-08-17-using-firebase-json-for-redirects/)
 - [🚀 Deploying to Firebase using Google Cloudbuild](https://www.elian.codes/blog/22-08-11-deploying-firebase-with-cloudbuild/)
 - [🚀 Deploying to Firebase using Github actions](https://www.elian.codes/blog/22-08-10-deploy-firebase-using-github-actions/)
 - [✨ Using Bun as JavaScript runtime](https://www.elian.codes/blog/22-07-06-using-bun-as-javascript-runtime/)
 - [🚀 Deploying Astro on Deno](https://www.elian.codes/blog/22-05-06-deploying-astro-on-deno/)
-- [📈 Using @elianvancutsem/mostvisitedpages as a serverless function](https://www.elian.codes/blog/22-05-02-using-mostvisitedpages-as-a-function/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
