@@ -1,12 +1,10 @@
-[![image](./assets/bg.png)](https://www.elian.codes)
+[![image](./assets/bg.png)](<https://www.elian.codes/>)
 
 # 👋 Hi there!
 
-I'm a Software Engineer based in 🇧🇪 working [@vbridge](<https://www.vbridge.eu>), where I started a couple years ago as an intern. I have a strong focus on design, front-end development and cloud native web-applications with the emphasis on personalisation and technical innovation. Next to pure development, I'm part of a community where I supports many companies in their IT story, and through his work connecting people, via the cloud and in real life.
+I'm a Elian, a Software Engineer based in 🇧🇪, working [@vbridge](<https://www.vbridge.eu>), where I started a couple years ago as an intern. I have a strong focus on design, front-end development and cloud native web-applications with the emphasis on personalisation and technical innovation.
 
-I'm always available for a chat or drink.
-
-When I'm not behind my computer, I'm behind the turntables trying to give the people an unforgettable night!
+Since 2021 I've also started contributing to open-source more. I'm currently contributing to [Astro](<https://astro.build/>) & giving [talks](<https://www.elian.codes/events/>) about it.
 
 ## 🤟 Follow me here
 
@@ -44,9 +42,7 @@ If you really want to find out what I’m working on or what's keeping me busy, 
 - [LinkedIn](<https://www.linkedin.com/in/elianvancutsem/>)
 - [email me](<mailto:hello@elian.codes>)
 - check [my website](<http://www.elian.codes>)
-- Message me on Matrix: @elianvc:matrix.org (if you know how 😉)
 
 ### ☕️ Leave me a tip
 
-- [Sponsor me on Github](<https://github.com/sponsors/ElianVanCutsem>)
-- [Buy Me A Coffee](<https://www.buymeacoffee.com/elianvancutsem>)
+- [Sponsor me on Github](<https://github.com/sponsors/eliancodes>)

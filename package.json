@@ -1,0 +1,22 @@
+{
+  "name": "@eliancodes/eliancodes",
+  "version": "0.1.0",
+  "description": "Elian Codes",
+  "bugs": {
+    "url": "https://github.com/eliancodes/eliancodes"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eliancodes/eliancodes.git"
+  },
+  "funding": "https://github.com/sponsors/eliancodes",
+  "author": "Elian Van Cutsem <hello@elian.codes> (https://www.elian.codes/)",
+  "main": "index.js",
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "open": "^8.4.2"
+  },
+  "homepage": "https://github.com/eliancodes/eliancodes#readme"
+}
