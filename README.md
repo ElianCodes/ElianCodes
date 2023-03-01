@@ -17,11 +17,11 @@ Since 2021 I've also started contributing to open-source more. I'm currently con
 Yes, just like everyone, I do have a blog and write about stuff I want to share with the world!
 
 <!-- BLOG-POST-LIST:START -->
+- [🍱 Brutal: A theme for Astro](https://www.elian.codes/blog/23-03-01-publishing-brutal-theme/)
 - [🎤 Am I an international public speaker now?](https://www.elian.codes/blog/23-02-21-am-i-an-international-public-speaker-now/)
 - [✨ Building Blog tag index pages in Astro](https://www.elian.codes/blog/23-02-19-building-blog-tag-index-pages-in-astro/)
 - [🎉 I started from scratch &lpar;again&rpar;](https://www.elian.codes/blog/23-02-15-i-started-from-scratch/)
 - [💄 Implementing UnoCSS in Astro](https://www.elian.codes/blog/23-02-11-implementing-unocss-in-astro/)
-- [✨ 2022 - my year in recap](https://www.elian.codes/blog/22-12-30-2022-a-year-in-recap/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 💼  My Skills
