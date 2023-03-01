@@ -34,6 +34,7 @@ If you really want to find out what I’m working on or what's keeping me busy, 
 
 ![ElianVanCutsem's github stats](https://github-readme-stats.vercel.app/api?username=eliancodes&show_icons=true&hide_border=true)
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliancodes&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20" alt="Elian's coding languages" /><br />
+[![@ElianCodes Astro contributions](https://astro.badg.es/v1/contributor/ElianCodes.svg)](https://astro.badg.es/v1/contributor/ElianCodes/)
 [![Elian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elianvancutsem&layout=compact)](https://github.com/eliancodes)
 
 ## ✏️ Get in touch
