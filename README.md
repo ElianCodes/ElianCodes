@@ -1,10 +1,14 @@
-[![image](./assets/bg.png)](<https://www.elian.codes/>)
+# 👋 Hi there
 
-# 👋 Hi there!
+I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working at [vBridge Cloud](<https://www.vbridge.eu>). [Astro](https://astro.build) maintainer & ambassador.
 
-I'm a Elian, a Software Engineer based in 🇧🇪, working [@vbridge](<https://www.vbridge.eu>), where I started a couple years ago as an intern. I have a strong focus on design, front-end development and cloud native web-applications with the emphasis on personalisation and technical innovation.
+I love to build things and share my knowledge with the world. Next to that, I also love to speak at conferences and meetups.
 
-Since 2021 I've also started contributing to open-source more. I'm currently contributing to [Astro](<https://astro.build/>) & giving [talks](<https://www.elian.codes/events/>) about it.
+## 📚 What I'm currently working on
+
+- [Astro](https://astro.build) - A new way to build websites
+- [Brutal](https://brutal.elian.codes) - A theme for Astro
+- [Astro Badges](https://astro.badg.es) - A collection of badges for Astro
 
 ## 🤟 Follow me here
 
@@ -14,8 +18,6 @@ Since 2021 I've also started contributing to open-source more. I'm currently con
 
 ## 📝 Latest Blogposts
 
-Yes, just like everyone, I do have a blog and write about stuff I want to share with the world!
-
 <!-- BLOG-POST-LIST:START -->
 - [🍱 Brutal: A theme for Astro](https://www.elian.codes/blog/23-03-01-publishing-brutal-theme/)
 - [🎤 Am I an international public speaker now?](https://www.elian.codes/blog/23-02-21-am-i-an-international-public-speaker-now/)
@@ -23,12 +25,6 @@ Yes, just like everyone, I do have a blog and write about stuff I want to share 
 - [🎉 I started from scratch &lpar;again&rpar;](https://www.elian.codes/blog/23-02-15-i-started-from-scratch/)
 - [💄 Implementing UnoCSS in Astro](https://www.elian.codes/blog/23-02-11-implementing-unocss-in-astro/)
 <!-- BLOG-POST-LIST:END -->
-
-## 💼  My Skills
-
-There used to be a cool JSON-like object here of all my skills and tools, which was very attractive and cool, but I found out that my skills constantly improve or change. It’s kind of unmanageable.
-
-If you really want to find out what I’m working on or what's keeping me busy, follow me on [Twitter](https://www.twitter.com/eliancodes) or check [my blog](https://www.elian.codes/blog/)!
 
 ## 📉 Some statistics
 
@@ -39,11 +35,11 @@ If you really want to find out what I’m working on or what's keeping me busy, 
 
 ## ✏️ Get in touch
 
-- DM me on [Twitter](<https://www.twitter.com/eliancodes>)
-- [LinkedIn](<https://www.linkedin.com/in/elianvancutsem/>)
-- [email me](<mailto:hello@elian.codes>)
-- check [my website](<http://www.elian.codes>)
+- DM me on [Twitter](https://www.twitter.com/eliancodes)
+- [LinkedIn](https://www.linkedin.com/in/elianvancutsem/)
+- [email me](mailto:hello@elian.codes)
+- check [my website](https://www.elian.codes)
 
 ### ☕️ Leave me a tip
 
-- [Sponsor me on Github](<https://github.com/sponsors/eliancodes>)
+- [Sponsor me on Github](https://github.com/sponsors/eliancodes)
