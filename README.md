@@ -19,11 +19,11 @@ I love to build things and share my knowledge with the world. Next to that, I al
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Becoming an Astro maintainer](https://www.elian.codes/blog/23-04-12-becoming-an-astro-maintainer/)
 - [🍱 Brutal: A theme for Astro](https://www.elian.codes/blog/23-03-01-publishing-brutal-theme/)
 - [🎤 Am I an international public speaker now?](https://www.elian.codes/blog/23-02-21-am-i-an-international-public-speaker-now/)
 - [✨ Building Blog tag index pages in Astro](https://www.elian.codes/blog/23-02-19-building-blog-tag-index-pages-in-astro/)
 - [🎉 I started from scratch &lpar;again&rpar;](https://www.elian.codes/blog/23-02-15-i-started-from-scratch/)
-- [💄 Implementing UnoCSS in Astro](https://www.elian.codes/blog/23-02-11-implementing-unocss-in-astro/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📉 Some statistics
