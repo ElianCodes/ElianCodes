@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working at [vBridge Cloud](<https://www.vbridge.eu>). [Astro](https://astro.build) maintainer & ambassador.
+I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working at [vBridge Cloud](https://www.vbridge.eu). [Astro](https://astro.build) maintainer & ambassador. Butter Master at [Butter](https://butter.education)
 
 I love to build things and share my knowledge with the world. Next to that, I also love to speak at conferences and meetups.
 
