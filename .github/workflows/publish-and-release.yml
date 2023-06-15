@@ -5,6 +5,9 @@ on:
     branches:
       - main
 
+env:
+  GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
 jobs:
   bump-and-publish:
     runs-on: ubuntu-latest
@@ -20,8 +23,8 @@ jobs:
       - name: Bump version and create changelog
         if: "!startsWith(github.event.head_commit.message, 'chore(release)')"
         run: |
-          git config --local user.name "github-actions[bot]"
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "ElianCodes"
+          git config --local user.email "hello@elian.codes"
           npx standard-version -a
 
       - name: Push changes and tags
@@ -30,5 +33,3 @@ jobs:
           remote_repo="https://${GITHUB_ACTOR}:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git pull $remote_repo $CURRENT_BRANCH
           git push $remote_repo HEAD:$CURRENT_BRANCH --follow-tags --tags
-        env:
-          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
