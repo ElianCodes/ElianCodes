@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.12 (2023-06-15)
+
+
+### Bug Fixes
+
+* remove startsWith from workflow ([92fd726](https://github.com/eliancodes/eliancodes/commit/92fd726f91f96785d7f5bbd0edbee7cc0006ce2c))
+
 ### 0.1.11 (2023-06-15)
 
 ### 0.1.10 (2023-06-15)
