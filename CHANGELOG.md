@@ -2,6 +2,8 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.6](https://github.com/eliancodes/eliancodes/compare/v0.1.5...v0.1.6) (2023-06-15)
+
 ### 0.1.5 (2023-06-15)
 
 
