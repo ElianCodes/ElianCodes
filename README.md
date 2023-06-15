@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working at [vBridge Cloud](https://www.vbridge.eu). [Astro](https://astro.build) maintainer & ambassador.
+I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working at [vBridge Cloud](https://www.vbridge.eu). [Astro](https://astro.build) maintainer.
 
 I love to build things and share my knowledge with the world. Next to that, I also love to speak at conferences and meetups.
 
@@ -8,13 +8,6 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 - [Astro](https://astro.build) - A new way to build websites
 - [Brutal](https://brutal.elian.codes) - A theme for Astro
-- [Astro Badges](https://astro.badg.es) - A collection of badges for Astro
-
-## 🤟 Follow me here
-
-[![Twitter: eliancodes](https://img.shields.io/twitter/follow/eliancodes?style=social)](https://twitter.com/eliancodes)
-[![Linkedin: elianvancutsem](https://img.shields.io/badge/-ElianVanCutsem-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elianvancutsem/)](https://www.linkedin.com/in/elianvancutsem/)
-[![GitHub eliancodes](https://img.shields.io/github/followers/eliancodes?label=follow-eliancodes&style=social)](https://github.com/eliancodes)
 
 ## 📝 Latest Blogposts
 
@@ -28,18 +21,20 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 ## 📉 Some statistics
 
-![ElianVanCutsem's github stats](https://github-readme-stats.vercel.app/api?username=eliancodes&show_icons=true&hide_border=true)
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliancodes&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20" alt="Elian's coding languages" /><br />
-[![@ElianCodes Astro contributions](https://astro.badg.es/v1/contributor/ElianCodes.svg)](https://astro.badg.es/v1/contributor/ElianCodes/)
-[![Elian's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=elianvancutsem&layout=compact)](https://github.com/eliancodes)
+![@ElianCodes most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliancodes&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20)
+![@ElianCodes Astro contributions](https://astro.badg.es/v1/contributor/ElianCodes.svg)
 
 ## ✏️ Get in touch
 
 - DM me on [Twitter](https://www.twitter.com/eliancodes)
+- [Mastodon](https://mstdn.social/@eliancodes)
+- [Bluesky](https://bsky.app/profile/eliancodes.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/elianvancutsem/)
 - [email me](mailto:hello@elian.codes)
 - check [my website](https://www.elian.codes)
 
 ### ☕️ Leave me a tip
 
-- [Sponsor me on Github](https://github.com/sponsors/eliancodes)
+Sponsoring me, enables me to work on open-source projects outside of my regular working hours at vBridge, enables me to buy equipment, software licences, hardware and anything else I might need. I also sponsor other people - [see who I'm sponsoring](https://github.com/ElianCodes?tab=sponsoring)
+
+[![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/eliancodes)
