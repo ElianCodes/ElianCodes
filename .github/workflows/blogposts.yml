@@ -1,4 +1,5 @@
 name: Update Blogposts
+
 on:
   schedule:
     # Run it every hour
