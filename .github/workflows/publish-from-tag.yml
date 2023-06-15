@@ -1,0 +1,24 @@
+name: Publish from tag
+
+on:
+  push:
+    tags:
+      - 'v*'
+
+jobs:
+  publish-from-tag:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v3
+        with:
+          node-version: '18.x'
+          registry-url: 'https://registry.npmjs.org'
+
+      - name: Publish Package to NPM
+        run: npm publish
+        if: "startsWith(github.event.head_commit.message, 'chore(release)')"
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
