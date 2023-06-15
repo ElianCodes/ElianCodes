@@ -7,30 +7,8 @@ on:
       - 'v*'
 
 jobs:
-  release:
-    name: Create Release
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        with:
-          token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
-
-      - name: Extract changelog content
-        id: extract_changelog
-        run: echo "::set-output name=changelog::$(cat CHANGELOG.md)"
-
-      - name: Create release
-        id: create_release
-        uses: actions/create-release@v1
-        with:
-          tag_name: ${{ github.ref }}
-          release_name: Release ${{ github.ref }}
-          body: ${{ steps.extract_changelog.outputs.changelog }}
-
   publish:
     name: Publish Package to NPM
-    needs: release
     runs-on: ubuntu-latest
 
     steps:
@@ -49,3 +27,24 @@ jobs:
         run: npm publish
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+  # release:
+  #   name: Create Release
+  #   runs-on: ubuntu-latest
+  #   steps:
+  #     - name: Checkout code
+  #       uses: actions/checkout@v3
+  #       with:
+  #         token: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
+
+  #     - name: Extract changelog content
+  #       id: extract_changelog
+  #       run: echo "::set-output name=changelog::$(cat CHANGELOG.md)"
+
+  #     - name: Create release
+  #       id: create_release
+  #       uses: actions/create-release@v1
+  #       with:
+  #         tag_name: ${{ github.ref }}
+  #         release_name: Release ${{ github.ref }}
+  #         body: ${{ steps.extract_changelog.outputs.changelog }}
