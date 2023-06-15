@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.16 (2023-06-15)
+
+
+### Bug Fixes
+
+* add authentication to NPM ([ccea41a](https://github.com/eliancodes/eliancodes/commit/ccea41a1f7653ff16be189101948b88c0a8029c3))
+
 ### 0.1.15 (2023-06-15)
 
 ### 0.1.14 (2023-06-15)
