@@ -1,24 +1,23 @@
-name: Bump Version and Publish Package
+name: Release & Publish Workflow
 
 on:
   push:
     branches:
       - main
+    tags:
+      - 'v*'
 
 env:
   GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
 
 jobs:
-  bump-and-publish:
+  bump:
+    name: Release & Bump version
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v3
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: '18.x'
-          registry-url: 'https://registry.npmjs.org'
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
 
       - name: Bump version and create changelog
         if: "!startsWith(github.event.head_commit.message, 'chore(release)')"
@@ -33,3 +32,46 @@ jobs:
           remote_repo="https://${GITHUB_ACTOR}:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
           git pull $remote_repo $CURRENT_BRANCH
           git push $remote_repo HEAD:$CURRENT_BRANCH --follow-tags --tags
+
+  release:
+    name: Create Release
+    needs: bump
+    runs-on: ubuntu-latest
+
+    if: startsWith(github.ref, 'refs/tags/')
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Extract tag name
+        id: extract_tag
+        run: echo "::set-output name=tag::${{ github.ref }}"
+
+      - name: Extract changelog content
+        id: extract_changelog
+        run: echo "::set-output name=changelog::$(cat CHANGELOG.md)"
+
+      - name: Create release
+        id: create_release
+        uses: actions/create-release@v1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          tag_name: ${{ steps.extract_tag.outputs.tag }}
+          release_name: Release ${{ steps.extract_tag.outputs.tag }}
+          body: ${{ steps.extract_changelog.outputs.changelog }}
+
+  publish:
+    name: Publish Package to NPM
+    needs: bump
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Publish npm package
+        run: npm publish
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
