@@ -1,22 +1,32 @@
-name: Release Check
+name: Bump version
 
 on:
-  workflow_dispatch:
   push:
     branches:
       - master
 
 jobs:
-  release:
+  bump-version:
+    if: "!startsWith(${{ github.event.head_commit.message }}, 'chore(release):')"
     runs-on: ubuntu-latest
+    name: 'Bump version and create changelog with standard version'
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
+      - name: Check out
+        uses: actions/checkout@v2
         with:
-          node-version: 18
+          fetch-depth: 0
+          token: '${{ secrets.PERSONAL_ACCESS_TOKEN }}'
+      - name: Git config
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
 
-      - name: release
+      - name: Create bump and changelog
         run: npx standard-version -a
+
+      - name: Push to origin
+        run: |
+          CURRENT_BRANCH=$(git rev-parse --abbrev-ref HEAD)
+          remote_repo="https://${GITHUB_ACTOR}:${{ secrets.PERSONAL_ACCESS_TOKEN }}@github.com/${GITHUB_REPOSITORY}.git"
+          git pull $remote_repo $CURRENT_BRANCH
+          git push $remote_repo HEAD:$CURRENT_BRANCH --follow-tags --tags
