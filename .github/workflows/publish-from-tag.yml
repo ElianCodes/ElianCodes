@@ -19,6 +19,5 @@ jobs:
 
       - name: Publish Package to NPM
         run: npm publish
-        if: "startsWith(github.event.head_commit.message, 'chore(release)')"
         env:
           NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
