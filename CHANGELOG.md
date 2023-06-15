@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.7](https://github.com/eliancodes/eliancodes/compare/v0.1.6...v0.1.7) (2023-06-15)
+
+
+### Bug Fixes
+
+* fix multiple workflow triggers ([88abec8](https://github.com/eliancodes/eliancodes/commit/88abec8aec6fdca3fa382c84f441f3bc0d897db3))
+
 ### [0.1.6](https://github.com/eliancodes/eliancodes/compare/v0.1.5...v0.1.6) (2023-06-15)
 
 ### 0.1.5 (2023-06-15)
