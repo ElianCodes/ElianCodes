@@ -1,4 +1,4 @@
 #!/usr/bin/env node
-'use strict'
+import open from 'open';
 
-require('open')('https://www.elian.codes/')
+open('https://www.elian.codes/');
