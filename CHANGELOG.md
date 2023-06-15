@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### [0.1.8](https://github.com/eliancodes/eliancodes/compare/v0.1.7...v0.1.8) (2023-06-15)
+
+
+### Features
+
+* add workflow to publish to NPM ([20a355b](https://github.com/eliancodes/eliancodes/commit/20a355bb84c879736fbbfd7a6e3abc6b730e5ad0))
+
+
+### Bug Fixes
+
+* add conventional commit to blogpost workflow ([16f4f19](https://github.com/eliancodes/eliancodes/commit/16f4f19b1bbee51c4938b4d066ade08c3f9803d6))
+
 ### [0.1.7](https://github.com/eliancodes/eliancodes/compare/v0.1.6...v0.1.7) (2023-06-15)
 
 
