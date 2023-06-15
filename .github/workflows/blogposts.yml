@@ -2,7 +2,7 @@ name: Update Blogposts
 on:
   schedule:
     # Run it every hour
-    - cron: "0 * * * *"
+    - cron: '0 * * * *'
   workflow_dispatch:
 jobs:
   # https://github.com/gautamkrishnar/blog-post-workflow
@@ -13,4 +13,5 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://www.elian.codes/blog.xml"
+          feed_list: 'https://www.elian.codes/blog.xml'
+          commit_message: 'chore: Updated blog posts'
