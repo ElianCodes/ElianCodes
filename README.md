@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working at [vBridge Cloud](https://www.vbridge.eu). [Astro](https://astro.build) maintainer.
+I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working at [vBridge Cloud](https://www.vbridge.eu) & [Bright Energy](https://bright-energy.eu). [Astro](https://astro.build) maintainer.
 
 I love to build things and share my knowledge with the world. Next to that, I also love to speak at conferences and meetups.
 
@@ -8,6 +8,9 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 - [Astro](https://astro.build) - A new way to build websites
 - [Brutal](https://brutal.elian.codes) - A theme for Astro
+- [BeJS](https://bejs.io) conference in Brussels, Belgium
+- [React Brussels](https://react.brussels) conference in Belgium
+- My own meetups in Ghent, Belgium (link coming soon)
 
 ## 📝 Latest Blogposts
 
