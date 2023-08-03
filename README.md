@@ -29,7 +29,10 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 ## ✏️ Get in touch
 
-- DM me on [Twitter](https://www.twitter.com/eliancodes)
+*Feel free to DM me on any platform*
+
+- [Twitter](https://www.twitter.com/eliancodes)
+- [Threads](https://www.threads.net/@eliancodes) (not able to use anymore since EU restrictions)
 - [Mastodon](https://mstdn.social/@eliancodes)
 - [Bluesky](https://bsky.app/profile/eliancodes.bsky.social)
 - [LinkedIn](https://www.linkedin.com/in/elianvancutsem/)
