@@ -11,7 +11,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 - [Brutal](https://brutal.elian.codes) - A theme for Astro
 - [BeJS](https://bejs.io) conference in Brussels, Belgium
 - [React Brussels](https://react.brussels) conference in Belgium
-- [devs.gent](https://www.meetup.com/devs-gent/) web dev meetups in Ghent, Belgium
+- [devs.gent](https://www.devs.gent) web dev meetups in Ghent, Belgium
 
 ## 📝 Latest Blogposts
 
