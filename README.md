@@ -42,6 +42,6 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 ### ☕️ Leave me a tip
 
-Sponsoring me, enables me to work on open-source projects outside of my regular working hours at vBridge, enables me to buy equipment, software licences, hardware and anything else I might need. I also sponsor other people - [see who I'm sponsoring](https://github.com/ElianCodes?tab=sponsoring)
+Sponsoring me, enables me to work on open-source projects outside of my regular working hours at Astro, enables me to buy equipment, software licences, hardware and anything else I might need. I also sponsor other people - [see who I'm sponsoring](https://github.com/ElianCodes?tab=sponsoring)
 
 [![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/eliancodes)
