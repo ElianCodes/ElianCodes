@@ -13,6 +13,10 @@ I love to build things and share my knowledge with the world. Next to that, I al
 - [React Brussels](https://react.brussels) conference in Belgium
 - [devs.gent](https://www.devs.gent) web dev meetups in Ghent, Belgium
 
+## 🎤 Upcoming talks & events
+
+- [Qwik Paris](https://www.meetup.com/qwik-paris/events/295786958/) - 13 September 2023
+
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
