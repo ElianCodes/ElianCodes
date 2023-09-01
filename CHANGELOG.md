@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.25 (2023-09-01)
+
+
+### Features
+
+* add upcoming events to `README.md` ([2e9440b](https://github.com/eliancodes/eliancodes/commit/2e9440ba0948bea14b3d62c8c79e4976fabdfdab))
+
 ### 0.1.24 (2023-08-25)
 
 ### 0.1.23 (2023-08-17)
