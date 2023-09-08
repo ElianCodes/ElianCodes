@@ -16,6 +16,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 ## 🎤 Upcoming talks & events
 
 - [Qwik Paris](https://www.meetup.com/qwik-paris/events/295786958/) - 13 September 2023
+- [BeJS on tour](https://www.meetup.com/bejs-belgian-javascript-community/events/295676802/) - 26 September 2023
 
 ## 📝 Latest Blogposts
 
