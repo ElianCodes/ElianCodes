@@ -17,6 +17,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 - [BeJS on tour](https://www.meetup.com/bejs-belgian-javascript-community/events/295676802/) - 26 September 2023
 - [devs.gent](https://www.meetup.com/devs-gent/events/295278514/) - 27 September 2023
+- [Stories on the Road](https://www.storyblok.com/ev/stories-on-the-road-belgium-2023) - 12 October 2023
 - [React Brussels](https://react.brussels/) - 13 October 2023
 - [CityJS Berlin](https://berlin.cityjsconf.org/) - 3 November 2023
 - [De Lijn - Best Developer Challenge](https://editx.eu/en/it-challenges/best-developer-challenge-2023-de-lijn) - 28 November 2023
