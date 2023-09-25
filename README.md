@@ -37,7 +37,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 ## 📉 Some statistics
 
 ![@ElianCodes most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliancodes&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20)
-![@ElianCodes Astro contributions](https://astro.badg.es/v1/contributor/ElianCodes.svg)
+[![@ElianCodes Astro contributions](https://astro.badg.es/v2/contributor/ElianCodes.svg)](https://astro.badg.es/contributor/ElianCodes/)
 
 ## ✏️ Get in touch
 
