@@ -15,12 +15,11 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 ## 🎤 Upcoming talks & events
 
-- [Stories on the Road](https://www.storyblok.com/ev/stories-on-the-road-belgium-2023) - 12 October 2023
-- [React Brussels](https://react.brussels/) - 13 October 2023
 - [CityJS Berlin](https://berlin.cityjsconf.org/) - 3 November 2023
 - [De Lijn - Best Developer Challenge](https://editx.eu/en/it-challenges/best-developer-challenge-2023-de-lijn) - 28 November 2023
 - [devs.gent](https://www.meetup.com/devs-gent/events/295315918/) - 29 November 2023
 - [React Day Berlin](https://reactday.berlin/) - 8 December 2023
+- [devs.gent](https://www.meetup.com/devs-gent/events/296530375/) - 31 January 2024
 
 ## 📝 Latest Blogposts
 
