@@ -8,6 +8,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 - [Astro](https://astro.build) - A new way to build websites
 - [Starlight](https://starlight.astro.build) - A documentation website generator powered by Astro
+- [Search Astro Docs](https://www.raycast.com/ElianCodes/search-astro-docs) - A Raycast extension to search faster on the Astro Documentation
 - [Brutal](https://brutal.elian.codes) - A theme for Astro
 - [BeJS](https://bejs.io) conference in Brussels, Belgium
 - [React Brussels](https://react.brussels) conference in Belgium
