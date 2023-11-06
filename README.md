@@ -40,12 +40,12 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 *Feel free to DM me on any platform*
 
-- [Twitter](https://www.twitter.com/eliancodes)
-- [Threads](https://www.threads.net/@eliancodes) (not able to use anymore since EU restrictions)
-- [Mastodon](https://mstdn.social/@eliancodes)
-- [Bluesky](https://bsky.app/profile/eliancodes.bsky.social)
-- [LinkedIn](https://www.linkedin.com/in/elianvancutsem/)
-- [email me](mailto:hello@elian.codes)
+- [𝕏 (formerly Twitter)](https://www.elian.codes/x)
+- [Threads](https://www.elian.codes/threads) (not able to use anymore since EU restrictions)
+- [Mastodon](https://www.elian.codes/mastodon)
+- [Bluesky](https://www.elian.codes/bluesky)
+- [LinkedIn](https://www.elian.codes/linkedin)
+- [email me](https://www.elian.codes/mail)
 - check [my website](https://www.elian.codes)
 
 ### ☕️ Leave me a tip
