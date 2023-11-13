@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working as DX-support at [Astro](https://astro.build) | ex. [vBridge Cloud](https://www.vbridge.eu) & [Bright Energy](https://bright-energy.eu).
+I'm a Elian, a Software Engineer based in Belgium 🇧🇪, working as Community Engineer at [Astro](https://astro.build).
 
 I love to build things and share my knowledge with the world. Next to that, I also love to speak at conferences and meetups.
 
