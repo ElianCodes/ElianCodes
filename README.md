@@ -18,6 +18,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 - [React Day Berlin](https://reactday.berlin/) - 8 December 2023
 - [devs.gent](https://www.meetup.com/devs-gent/events/296530375/) - 31 January 2024
+- [CityJS London](https://london.cityjsconf.org/) - 5 April 2024
 
 ## 📝 Latest Blogposts
 
