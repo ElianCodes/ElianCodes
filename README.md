@@ -41,7 +41,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 *Feel free to DM me on any platform*
 
 - [𝕏 (formerly Twitter)](https://www.elian.codes/x)
-- [Threads](https://www.elian.codes/threads) (not able to use anymore since EU restrictions)
+- [Threads](https://www.elian.codes/threads)
 - [Mastodon](https://www.elian.codes/mastodon)
 - [Bluesky](https://www.elian.codes/bluesky)
 - [LinkedIn](https://www.elian.codes/linkedin)
