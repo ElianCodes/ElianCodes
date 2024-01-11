@@ -16,10 +16,11 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 ## 🎤 Upcoming talks & events
 
-- [devs.gent](https://www.meetup.com/devs-gent/events/296530375/) - 31 January 2024
-- [FOSDEM](https://fosdem.org/2024/schedule/track/javascript/) - 4 February 2024 
-- [JSWorld](https://jsworldconference.com/) - 1 March 2024
-- [CityJS London](https://london.cityjsconf.org/) - 5 April 2024
+- [devs.gent](https://www.meetup.com/devs-gent/events/296530375/) - 31 January 2024 - Ghent, Belgium
+- [https://kongresnextjs.pl/](https://kongresnextjs.pl/) - 2 February 2024 - Warsaw, Poland
+- [FOSDEM](https://fosdem.org/2024/schedule/track/javascript/) - 4 February 2024 - Brussels, Belgium
+- [JSWorld](https://jsworldconference.com/) - 1 March 2024 - Amsterdam, The Netherlands
+- [CityJS London](https://london.cityjsconf.org/) - 5 April 2024 - London, UK
 
 ## 📝 Latest Blogposts
 
