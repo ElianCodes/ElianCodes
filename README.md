@@ -10,14 +10,16 @@ I love to build things and share my knowledge with the world. Next to that, I al
 - [Starlight](https://starlight.astro.build) - A documentation website generator powered by Astro
 - [Search Astro Docs](https://www.raycast.com/ElianCodes/search-astro-docs) - A Raycast extension to search faster on the Astro Documentation
 - [Brutal](https://brutal.elian.codes) - A theme for Astro
-- [BeJS](https://bejs.io) conference in Brussels, Belgium
-- [React Brussels](https://react.brussels) conference in Belgium
-- [devs.gent](https://www.devs.gent) web dev meetups in Ghent, Belgium
+- [BeJS](https://bejs.io) - Conference in Brussels, Belgium
+- [React Brussels](https://react.brussels) - Conference in Belgium
+- [devs.gent](https://www.devs.gent) - Developer meetups in Ghent, Belgium
+- [BeJS Podcast](https://youtube.com/playlist?list=PL53Z0yyYnpWjYhOQsrYk20paiQ8uRhXJz&si=SDUxhI3wbGtzOdbe)
+- [React Paris](https://react.paris) - Conference in Paris, France
 
 ## 🎤 Upcoming talks & events
 
 - [devs.gent](https://www.meetup.com/devs-gent/events/296530375/) - 31 January 2024 - Ghent, Belgium
-- [https://kongresnextjs.pl/](https://kongresnextjs.pl/) - 2 February 2024 - Warsaw, Poland
+- [Kongres Next.js](https://kongresnextjs.pl/) - 2 February 2024 - Warsaw, Poland
 - [FOSDEM](https://fosdem.org/2024/schedule/track/javascript/) - 4 February 2024 - Brussels, Belgium
 - [JSWorld](https://jsworldconference.com/) - 1 March 2024 - Amsterdam, The Netherlands
 - [CityJS London](https://london.cityjsconf.org/) - 5 April 2024 - London, UK
