@@ -25,11 +25,11 @@ I love to build things and share my knowledge with the world. Next to that, I al
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Elians Astro Startkit](https://www.elian.codes/blog/24-02-08-elians-astro-startkit/)
 - [So, I&#39;m leaving vBridge](https://www.elian.codes/blog/23-08-07-leaving-vbridge/)
 - [Becoming an Astro maintainer](https://www.elian.codes/blog/23-04-12-becoming-an-astro-maintainer/)
 - [🍱 Brutal: A theme for Astro](https://www.elian.codes/blog/23-03-01-publishing-brutal-theme/)
 - [🎤 Am I an international public speaker now?](https://www.elian.codes/blog/23-02-21-am-i-an-international-public-speaker-now/)
-- [✨ Building Blog tag index pages in Astro](https://www.elian.codes/blog/23-02-19-building-blog-tag-index-pages-in-astro/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📉 Some statistics
