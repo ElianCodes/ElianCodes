@@ -18,7 +18,6 @@ I love to build things and share my knowledge with the world. Next to that, I al
 
 ## 🎤 Upcoming talks & events
 
-- [JSWorld](https://jsworldconference.com/) - 1 March 2024 - Amsterdam, The Netherlands
 - [CityJS London](https://london.cityjsconf.org/) - 5 April 2024 - London, UK
 - [React Norway](https://reactnorway.com/) - 14 June 2024 - Larvik, Norway
 
