@@ -4,7 +4,7 @@ I'm Elian, a Software Engineer based in Belgium 🇧🇪, working as part of the
 
 I love to build things and share my knowledge with the world. Next to that, I also love to speak at conferences and meetups.
 
-## 📚 What I'm currently working on
+## 💡 You might know me from
 
 - [Astro](https://astro.build) - A new way to build websites
 - [Starlight](https://starlight.astro.build) - A documentation website generator powered by Astro
