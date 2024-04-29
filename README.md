@@ -25,6 +25,7 @@ I love to build things and share my knowledge with the world. Next to that, I al
 - [CityJS Athens](https://greece.cityjsconf.org/) - 6-8 June 2024 - Athens, Greece
 - [React Norway](https://reactnorway.com/) - 14 June 2024 - Larvik, Norway
 - [CityJS Singapore](https://singapore.cityjsconf.org/) - 24-26 June 2024 - Singapore
+- [React Alicante](https://reactalicante.es/) - 19-21 September 2024 - Alicante, Spain
 - [React Advanced](https://reactadvanced.com/) - 25 October 2024 - London, UK
 
 ## 📝 Latest Blogposts
