@@ -31,11 +31,11 @@ I love to build things and share my knowledge with the world. Next to that, I al
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [SolidJS Devtools with Astro](https://www.elian.codes/blog/24-04-30-astro-solidjs-devtools/)
 - [How I keep everything up to date](https://www.elian.codes/blog/24-03-15-how-i-keep-up-to-date/)
 - [PandaCSS + Astro startkit](https://www.elian.codes/blog/24-03-09-pandacss-startkit/)
 - [Elians Astro Startkit](https://www.elian.codes/blog/24-02-08-elians-astro-startkit/)
 - [So, I&#39;m leaving vBridge](https://www.elian.codes/blog/23-08-07-leaving-vbridge/)
-- [Becoming an Astro maintainer](https://www.elian.codes/blog/23-04-12-becoming-an-astro-maintainer/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📉 Some statistics
