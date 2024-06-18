@@ -1,8 +1,6 @@
 # 👋 Hi there
 
-I'm Elian, a Software Engineer based in Belgium 🇧🇪, working as part of the core at [Astro](https://astro.build).
-
-I love to build things and share my knowledge with the world. Next to that, I also love to speak at conferences and meetups.
+I'm Elian, a Software Engineer based in Belgium 🇧🇪, [Astro](https://astro.build) Maintainer, meetup organizer, and BeJS conference co-organizer.
 
 ## 💡 You might know me from
 
@@ -17,13 +15,10 @@ I love to build things and share my knowledge with the world. Next to that, I al
 - [devs.gent](https://www.devs.gent) - Developer meetups in Ghent, Belgium
 - [BeJS Podcast](https://youtube.com/playlist?list=PL53Z0yyYnpWjYhOQsrYk20paiQ8uRhXJz&si=SDUxhI3wbGtzOdbe)
 - [React Paris](https://react.paris) - Conference in Paris, France
+- [React Africa](https://react-africa.com) - Conference in Casablanca, Morocco
 
 ## 🎤 Upcoming talks & events
 
-- [JNation](https://jnation.pt/) - 4-5 June 2024 - Coimbra, Portugal
-- [Frontend Nation](https://frontendnation.com/) - 4-7 June - Online
-- [CityJS Athens](https://greece.cityjsconf.org/) - 6-8 June 2024 - Athens, Greece
-- [React Norway](https://reactnorway.com/) - 14 June 2024 - Larvik, Norway
 - [CityJS Singapore](https://singapore.cityjsconf.org/) - 24-26 June 2024 - Singapore
 - [React Alicante](https://reactalicante.es/) - 19-21 September 2024 - Alicante, Spain
 - [React Advanced](https://reactadvanced.com/) - 25 October 2024 - London, UK
