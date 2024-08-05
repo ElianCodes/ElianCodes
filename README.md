@@ -2,12 +2,14 @@
 
 I'm Elian, a Software Engineer based in Belgium 🇧🇪, [Astro](https://astro.build) Maintainer, meetup organizer, and BeJS conference co-organizer.
 
+Currently working with [React Bricks](https://reactbricks.com)
+
 ## 💡 You might know me from
 
 - [Astro](https://astro.build) - A new way to build websites
 - [Starlight](https://starlight.astro.build) - A documentation website generator powered by Astro
 - [Search Astro Docs](https://www.raycast.com/ElianCodes/search-astro-docs) - A Raycast extension to search faster on the Astro Documentation
-- [Astro Community](https://community.astro.build) - The home for the Astro Award winners showcase
+- [Astro Community](https://community.astro.build) - The home for the Astro Award winners' showcase
 - [Astro Dev Portal](https://portal.astro.build) - The home for theme authors publishing for Astro
 - [Brutal](https://brutal.elian.codes) - A theme for Astro
 - [BeJS](https://bejs.io) - Conference in Brussels, Belgium
@@ -16,10 +18,11 @@ I'm Elian, a Software Engineer based in Belgium 🇧🇪, [Astro](https://astro.
 - [BeJS Podcast](https://youtube.com/playlist?list=PL53Z0yyYnpWjYhOQsrYk20paiQ8uRhXJz&si=SDUxhI3wbGtzOdbe)
 - [React Paris](https://react.paris) - Conference in Paris, France
 - [React Africa](https://react-africa.com) - Conference in Casablanca, Morocco
+- [React Bricks](https://reactbricks.com) - The Visual headless CMS for React
 
 ## 🎤 Upcoming talks & events
 
-- [CityJS Singapore](https://singapore.cityjsconf.org/) - 24-26 June 2024 - Singapore
+- [Infobip Shift](https://shift.infobip.com/) - 15-17 September 2024 - Zadar, Croatia
 - [React Alicante](https://reactalicante.es/) - 19-21 September 2024 - Alicante, Spain
 - [React Advanced](https://reactadvanced.com/) - 25 October 2024 - London, UK
 
@@ -52,6 +55,6 @@ I'm Elian, a Software Engineer based in Belgium 🇧🇪, [Astro](https://astro.
 
 ### ☕️ Leave me a tip
 
-Sponsoring me enables me to work on open-source projects outside my regular working hours at Astro and buy equipment, software licenses, hardware, and anything else I might need. I also sponsor other people - [see who I'm sponsoring](https://github.com/ElianCodes?tab=sponsoring)
+Sponsoring me enables me to work on open-source projects outside my regular working hours or buy equipment, software licenses, hardware, and anything else I might need. I also sponsor other people - [see who I'm sponsoring](https://github.com/ElianCodes?tab=sponsoring)
 
 [![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/eliancodes)
