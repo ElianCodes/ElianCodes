@@ -2,7 +2,11 @@
 
 I'm Elian, a Software Engineer based in Belgium 🇧🇪, [Astro](https://astro.build) Maintainer, meetup organizer, and BeJS conference co-organizer.
 
-Currently working with [React Bricks](https://reactbricks.com)
+Former [Astro](https://astro.build) Core team.
+
+Currently working as Lead Developer Relations at [React Bricks](https://reactbricks.com) & Software Engineer at [Vulpo](https://vulpo.be).
+
+Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-energy.eu), [C-all](https://www.c-all.io), You?
 
 ## 💡 You might know me from
 
