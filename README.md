@@ -28,7 +28,12 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 - [Infobip Shift](https://shift.infobip.com/) - 15-17 September 2024 - Zadar, Croatia
 - [React Alicante](https://reactalicante.es/) - 19-21 September 2024 - Alicante, Spain
+- [React Brussels](https://react.brussels/) - 18 October 2024 - Brussels, Belgium
 - [React Advanced](https://reactadvanced.com/) - 25 October 2024 - London, UK
+- [React Africa](https://react-africa.com/) - 29 November 2024 - Casablanca, Morocco
+- [React Day Berlin](https://reactday.berlin/) - 13 December 2024 - Berlin, Germany
+- [React Paris](https://react.paris/) - 21 March 2025 - Paris, France
+- [Code Europe](https://www.codeeurope.pl/en/) - 30 June-1 July - Krakow, Poland
 
 ## 📝 Latest Blogposts
 
