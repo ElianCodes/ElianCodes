@@ -33,6 +33,7 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 - [React Africa](https://react-africa.com/) - 29 November 2024 - Casablanca, Morocco
 - [React Day Berlin](https://reactday.berlin/) - 13 December 2024 - Berlin, Germany
 - [React Paris](https://react.paris/) - 21 March 2025 - Paris, France
+- [React Norway](https://reactnorway.com/) - 20 June 2025 - Larvik, Norway
 - [Code Europe](https://www.codeeurope.pl/en/) - 30 June-1 July - Krakow, Poland
 
 ## 📝 Latest Blogposts
