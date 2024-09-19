@@ -26,7 +26,6 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 ## 🎤 Upcoming talks & events
 
-- [Infobip Shift](https://shift.infobip.com/) - 15-17 September 2024 - Zadar, Croatia
 - [React Alicante](https://reactalicante.es/) - 19-21 September 2024 - Alicante, Spain
 - [React Brussels](https://react.brussels/) - 18 October 2024 - Brussels, Belgium
 - [React Advanced](https://reactadvanced.com/) - 25 October 2024 - London, UK
