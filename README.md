@@ -26,7 +26,6 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 ## 🎤 Upcoming talks & events
 
-- [React Brussels](https://react.brussels/) - 18 October 2024 - Brussels, Belgium
 - [React Advanced](https://reactadvanced.com/) - 25 October 2024 - London, UK
 - [React Africa](https://react-africa.com/) - 29 November 2024 - Casablanca, Morocco
 - [React Day Berlin](https://reactday.berlin/) - 13 December 2024 - Berlin, Germany
