@@ -26,6 +26,7 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 ## 🎤 Upcoming talks & events
 
+- [TypeScript la Conf'](https://la-conf.typescript.paris/) - 28 February 2025 - Paris, France
 - [React Paris](https://react.paris/) - 21 March 2025 - Paris, France
 - [React Norway](https://reactnorway.com/) - 20 June 2025 - Larvik, Norway
 - [Code Europe](https://www.codeeurope.pl/en/) - 30 June-1 July - Krakow, Poland
