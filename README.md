@@ -26,6 +26,7 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 ## 🎤 Upcoming talks & events
 
+- [FOSDEM](https://fosdem.org/2025/) - 2 February 2025 - Brussels, Belgium
 - [TypeScript la Conf'](https://la-conf.typescript.paris/) - 28 February 2025 - Paris, France
 - [React Paris](https://react.paris/) - 21 March 2025 - Paris, France
 - [React Norway](https://reactnorway.com/) - 20 June 2025 - Larvik, Norway
