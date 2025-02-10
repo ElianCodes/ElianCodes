@@ -23,6 +23,8 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 - [React Paris](https://react.paris) - Conference in Paris, France
 - [React Africa](https://react-africa.com) - Conference in Casablanca, Morocco
 - [React Bricks](https://reactbricks.com) - The Visual headless CMS for React
+- [WebDevGig](https://webdevgig.com) - Coming Soon
+- [conference-ratings](https://conference-ratings.com) - Coming Soon
 
 ## 🎤 Upcoming talks & events
 
