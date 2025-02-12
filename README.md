@@ -25,6 +25,7 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 - [React Bricks](https://reactbricks.com) - The Visual headless CMS for React
 - [WebDevGig](https://webdevgig.com) - Coming Soon
 - [conference-ratings](https://conference-ratings.com) - Coming Soon
+- [meetingexcuse.com](https://meetingexcuse.com] - Easy get out of meetings, fast.
 
 ## 🎤 Upcoming talks & events
 
