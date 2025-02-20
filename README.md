@@ -31,6 +31,7 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 - [TypeScript la Conf'](https://la-conf.typescript.paris/) - 28 February 2025 - Paris, France
 - [React Paris](https://react.paris/) - 21 March 2025 - Paris, France
+- [Codemotion](https://conferences.codemotion.com/rome2025/) - 14 April 2025 - Rome, Italy
 - [JNation](https://jnation.pt/) - 28 May 2025 - Coimbra, Portugal
 - [React Norway](https://reactnorway.com/) - 20 June 2025 - Larvik, Norway
 - [Code Europe](https://www.codeeurope.pl/en/) - 30 June-1 July - Krakow, Poland
