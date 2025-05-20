@@ -30,7 +30,10 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 ## 🎤 Upcoming talks & events
 
 - [JNation](https://jnation.pt/) - 28 May 2025 - Coimbra, Portugal
+- [DevTalks Romania](https://www.devtalks.ro/) - 4 June - Bucharest, Romania
 - [Code Europe](https://www.codeeurope.pl/en/) - 30 June-1 July - Krakow, Poland
+- [ZurichJS](https://zurichjs.com/) - 24 July - Zurich, Switserland
+- [Porto Tech Hub](https://portotechhub.com/conference-2025/) - 7 October - Porto, Portugal
 
 ## 📝 Latest Blogposts
 
