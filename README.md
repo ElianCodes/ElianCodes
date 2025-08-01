@@ -29,8 +29,12 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 ## 🎤 Upcoming talks & events
 
-- [ZurichJS](https://zurichjs.com/) - 24 July - Zurich, Switserland
+- [AgentCon](https://globalai.community/chapters/singapore/events/agentcon-2025-singapore/) - 9 September - Singapore
+- [AgentCon](https://globalai.community/chapters/ho-chi-minh/events/agentcon-2025-ho-chi-minh/) - 11 September - Ho Chi Minh City, Vietnam
 - [Porto Tech Hub](https://portotechhub.com/conference-2025/) - 7 October - Porto, Portugal
+- [Devfest Milan](https://devfestmilano.it/) - 11 October - Milan, Italy
+- [Codemotion Milan](https://conferences.codemotion.com/milan2025/) - 14 October - Milan, Italy
+- [DevDays Europe](https://devdays.lt/) - 20 May - Vilnius, Lithuania
 
 ## 📝 Latest Blogposts
 
