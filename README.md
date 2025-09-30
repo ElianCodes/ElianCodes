@@ -33,7 +33,7 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 - [Porto Tech Hub](https://portotechhub.com/conference-2025/) - 7 October - Porto, Portugal
 - [Devfest Milan](https://devfestmilano.it/) - 11 October - Milan, Italy
 - [Codemotion Milan](https://conferences.codemotion.com/milan2025/) - 14 October - Milan, Italy
-- [MagnoliaJS](https://2025.magnoliaconf.com/) - 22 October - Jackson, Mississipi, US
+- [Magnolia Conf](https://2025.magnoliaconf.com/) - 22 October - Jackson, Mississipi, US
 - [Infobip Shift Asia](https://shift.infobip.com/asia/) - 4 November - Kuala Lumpur, Malaysia
 - [JSNation US](https://jsnation.us/) - 17 November - New York, US
 - [DevDays Europe](https://devdays.lt/) - 20 May - Vilnius, Lithuania
