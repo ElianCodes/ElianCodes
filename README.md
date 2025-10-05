@@ -41,11 +41,11 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why Most Restaurant Websites Suck &lpar;and What To Do About It&rpar;](https://www.elian.codes/blog/25-10-05-why-most-restaurant-websites-suck/)
 - [SolidJS Devtools with Astro](https://www.elian.codes/blog/24-04-30-astro-solidjs-devtools/)
 - [How I keep everything up to date](https://www.elian.codes/blog/24-03-15-how-i-keep-up-to-date/)
 - [PandaCSS + Astro startkit](https://www.elian.codes/blog/24-03-09-pandacss-startkit/)
 - [Elians Astro Startkit](https://www.elian.codes/blog/24-02-08-elians-astro-startkit/)
-- [So, I&#39;m leaving vBridge](https://www.elian.codes/blog/23-08-07-leaving-vbridge/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📉 Some statistics
