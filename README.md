@@ -1,4 +1,4 @@
-# 👋 Hi there
+o# 👋 Hi there
 
 I'm Elian, a Software Engineer based in Belgium 🇧🇪, [Astro](https://astro.build) Maintainer, meetup organizer, and BeJS conference co-organizer.
 
@@ -29,10 +29,6 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 ## 🎤 Upcoming talks & events
 
-- [React Alicante](https://reactalicante.es/) - 3 October - Alicante, Spain
-- [Porto Tech Hub](https://portotechhub.com/conference-2025/) - 7 October - Porto, Portugal
-- [Devfest Milan](https://devfestmilano.it/) - 11 October - Milan, Italy
-- [Codemotion Milan](https://conferences.codemotion.com/milan2025/) - 14 October - Milan, Italy
 - [Magnolia Conf](https://2025.magnoliaconf.com/) - 22 October - Jackson, Mississipi, US
 - [Infobip Shift Asia](https://shift.infobip.com/asia/) - 4 November - Kuala Lumpur, Malaysia
 - [JSNation US](https://jsnation.us/) - 17 November - New York, US
