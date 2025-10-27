@@ -29,7 +29,6 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 
 ## 🎤 Upcoming talks & events
 
-- [Magnolia Conf](https://2025.magnoliaconf.com/) - 22 October - Jackson, Mississipi, US
 - [Infobip Shift Asia](https://shift.infobip.com/asia/) - 4 November - Kuala Lumpur, Malaysia
 - [JSNation US](https://jsnation.us/) - 17 November - New York, US
 - [DevDays Europe](https://devdays.lt/) - 20 May - Vilnius, Lithuania
