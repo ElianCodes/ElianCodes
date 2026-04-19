@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+### 0.1.86 (2026-04-19)
+
+
+### Bug Fixes
+
+* update coral ([4649156](https://github.com/eliancodes/eliancodes/commit/4649156ddbfbf22e57b8d3f3df18dc60f8a25f61))
+
 ### 0.1.85 (2025-12-02)
 
 ### 0.1.84 (2025-10-27)
