@@ -35,11 +35,11 @@ Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-en
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
+- [Why is self-hosting still this painful in 2026?](https://www.elian.codes/blog/26-04-19-why-self-hosting-is-still-painful/)
 - [Astro Docs Gets an MCP Server &lpar;And It&#39;s Pretty Cool&rpar;](https://www.elian.codes/blog/25-10-18-astro-docs-gets-an-mcp-server/)
 - [Why Most Restaurant Websites Suck &lpar;and What To Do About It&rpar;](https://www.elian.codes/blog/25-09-05-why-most-restaurant-websites-suck/)
 - [SolidJS Devtools with Astro](https://www.elian.codes/blog/24-04-30-astro-solidjs-devtools/)
 - [How I keep everything up to date](https://www.elian.codes/blog/24-03-15-how-i-keep-up-to-date/)
-- [PandaCSS + Astro startkit](https://www.elian.codes/blog/24-03-09-pandacss-startkit/)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📉 Some statistics
