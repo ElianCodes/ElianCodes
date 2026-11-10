@@ -1,12 +1,20 @@
 # 👋 Hi there
 
-I'm Elian, a Software Engineer based in Belgium 🇧🇪, CTO at [Vulpo](https://vulpo.be), [Astro](https://astro.build) Maintainer, meetup organizer, and BeJS conference co-organizer.
+I'm Elian, a Software Engineer based in Belgium 🇧🇪, founder of [ElianCodes BV](https://eliancodes.com), CTO at [Vulpo](https://vulpo.be), [Astro](https://astro.build) Maintainer, meetup organizer, and BeJS conference co-organizer.
 
 Former [Astro](https://astro.build) Core team.
 
 Currently working as Lead Developer Relations at [React Bricks](https://reactbricks.com) & CTO at [Vulpo](https://vulpo.be).
 
 Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-energy.eu), [C-all](https://www.c-all.io), You?
+
+## 🚀 What I'm building
+
+Products from [ElianCodes BV](https://eliancodes.com).
+
+- [Ringske](https://ringske.be) - A wedding planner for couples in Belgium: guest list, QR RSVP, budget, wedding website and help with the Belgian marriage declaration. Built for my own wedding with Moya in May 2027.
+- [Rolleke](https://rolleke.be) - An event photography platform
+- [Kluut!](https://eliancodes.com/projects/kluut) - A game by [ElianCodes BV](https://eliancodes.com)
 
 ## 💡 You might know me from
 
