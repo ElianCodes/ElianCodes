@@ -43,11 +43,11 @@ Products from [ElianCodes BV](https://eliancodes.com).
 ## 📝 Latest Blogposts
 
 <!-- BLOG-POST-LIST:START -->
-- [These Aren&#39;t the Hosts You&#39;re Looking For](https://www.elian.codes/blog/26-06-09-these-arent-the-hosts-youre-looking-for/)
-- [PHP Deployments Aren&#39;t Anywhere Near JavaScript Maturity](https://www.elian.codes/blog/26-06-06-php-deployments-vs-js-maturity/)
-- [Why is self-hosting still this painful in 2026?](https://www.elian.codes/blog/26-04-19-why-self-hosting-is-still-painful/)
-- [Astro Docs Gets an MCP Server &lpar;And It&#39;s Pretty Cool&rpar;](https://www.elian.codes/blog/25-10-18-astro-docs-gets-an-mcp-server/)
-- [Why Most Restaurant Websites Suck &lpar;and What To Do About It&rpar;](https://www.elian.codes/blog/25-09-05-why-most-restaurant-websites-suck/)
+- [These Aren&#39;t the Hosts You&#39;re Looking For](https://www.elian.codes/blog/26-06-09-these-arent-the-hosts-youre-looking-for)
+- [PHP Deployments Aren&#39;t Anywhere Near JavaScript Maturity](https://www.elian.codes/blog/26-06-06-php-deployments-vs-js-maturity)
+- [Why is self-hosting still this painful in 2026?](https://www.elian.codes/blog/26-04-19-why-self-hosting-is-still-painful)
+- [Astro Docs Gets an MCP Server &lpar;And It&#39;s Pretty Cool&rpar;](https://www.elian.codes/blog/25-10-18-astro-docs-gets-an-mcp-server)
+- [Why Most Restaurant Websites Suck &lpar;and What To Do About It&rpar;](https://www.elian.codes/blog/25-09-05-why-most-restaurant-websites-suck)
 <!-- BLOG-POST-LIST:END -->
 
 ## 📉 Some statistics
