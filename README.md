@@ -1,74 +1,64 @@
-# 👋 Hi there
+# 👋 Hi, I'm Elian
 
-I'm Elian, a Software Engineer based in Belgium 🇧🇪, founder of [ElianCodes BV](https://eliancodes.com), CTO at [Vulpo](https://vulpo.be), [Astro](https://astro.build) Maintainer, meetup organizer, and BeJS conference co-organizer.
+Full-stack developer, speaker and all-around internet troublemaker from Belgium 🇧🇪.
 
-Former [Astro](https://astro.build) Core team.
+- 🦊 **CTO** at [Vulpo](https://vulpo.be), a software studio in Ghent
+- 🧱 **Lead DevRel** at [React Bricks](https://reactbricks.com), the visual CMS for React
+- 🚀 **[Astro](https://astro.build) maintainer** since 2023 (ex-core team)
+- 🏢 **Founder** of [ElianCodes BV](https://eliancodes.com)
+- 🎪 **Co-organizer** of [BeJS](https://bejs.io), [React Brussels](https://react.brussels), [React Paris](https://react.paris), React Africa and [Devs.gent](https://www.devs.gent)
 
-Currently working as Lead Developer Relations at [React Bricks](https://reactbricks.com) & CTO at [Vulpo](https://vulpo.be).
+Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-energy.eu), [C-all](https://www.c-all.io), you?
 
-Worked with [vBridge](https://www.vbridge.eu), [Bright Energy](https://bright-energy.eu), [C-all](https://www.c-all.io), You?
+## 🎤 On stage
+
+**51 stages in 22 countries on 4 continents since 2022.** See the full [tour log](https://www.elian.codes/events).
+
+Talks you can book:
+
+- [Playing with Fire: Unethical AI](https://www.elian.codes/talks/playing-with-fire) (keynote or talk)
+- [Make the Web Weird Again](https://www.elian.codes/talks/make-the-web-weird-again)
+- [Going full-stack with Astro](https://www.elian.codes/talks/full-stack-astro) (talk or workshop)
+- [Astro as a Universal CMS Frontend](https://www.elian.codes/talks/astro-universal-cms-frontend)
+
+Now booking talks & workshops for 2027: [book me](https://www.elian.codes/events#kit) or find me on [Sessionize](https://sessionize.com/eliancodes). All past talks are at [elian.codes/talks](https://www.elian.codes/talks).
 
 ## 🚀 What I'm building
 
-Products from [ElianCodes BV](https://eliancodes.com).
+Products from [ElianCodes BV](https://eliancodes.com):
 
-- [Ringske](https://ringske.be) - A wedding planner for couples in Belgium: guest list, QR RSVP, budget, wedding website and help with the Belgian marriage declaration. Built for my own wedding with Moya in May 2027.
-- [Rolleke](https://rolleke.be) - An event photography platform
-- [Kluut!](https://eliancodes.com/projects/kluut) - A game by [ElianCodes BV](https://eliancodes.com)
+- [Ringske](https://ringske.be): a wedding planner for couples in Belgium, with a guest list, QR RSVP, budget, wedding website and help with the Belgian marriage declaration. Built for my own wedding with Moya in May 2027.
+- [Rolleke](https://rolleke.be): an event photography platform
+- [Kluut!](https://eliancodes.com/projects/kluut): a game
+
+Side projects:
+
+- [Brutal](https://brutal.elian.codes): a theme for Astro
+- [Search Astro Docs](https://www.raycast.com/ElianCodes/search-astro-docs): a Raycast extension for the Astro docs
+- [Coral](https://getcoral.dev): an open-source ecosystem of independent modules that extend Jellyfin
+- [meetingexcuse.com](https://meetingexcuse.com): get out of meetings, fast
 
 ## 💡 You might know me from
 
-- [Astro](https://astro.build) - A new way to build websites
-- [Starlight](https://starlight.astro.build) - A documentation website generator powered by Astro
-- [Search Astro Docs](https://www.raycast.com/ElianCodes/search-astro-docs) - A Raycast extension to search faster on the Astro Documentation
-- [Astro Community](https://community.astro.build) - The home for the Astro Award winners' showcase
-- [Astro Dev Portal](https://portal.astro.build) - The home for theme authors publishing for Astro
-- [Brutal](https://brutal.elian.codes) - A theme for Astro
-- [BeJS](https://bejs.io) - Conference in Brussels, Belgium
-- [React Brussels](https://react.brussels) - Conference in Belgium
-- [devs.gent](https://www.devs.gent) - Developer meetups in Ghent, Belgium
-- [BeJS Podcast](https://youtube.com/playlist?list=PL53Z0yyYnpWjYhOQsrYk20paiQ8uRhXJz&si=SDUxhI3wbGtzOdbe)
-- [React Paris](https://react.paris) - Conference in Paris, France
-- [React Africa](https://react-africa.com) - Conference in Casablanca, Morocco
-- [React Bricks](https://reactbricks.com) - The Visual headless CMS for React
-- [WebDevGig](https://webdevgig.com) - Coming Soon
-- [conference-ratings](https://conference-ratings.com) - Coming Soon
-- [meetingexcuse.com](https://meetingexcuse.com) - Easy get out of meetings, fast.
-- [Coral](https://getcoral.dev) - An open-source ecosystem of independent modules that extend Jellyfin
+- [Astro](https://astro.build) & [Starlight](https://starlight.astro.build)
+- [Astro Community](https://community.astro.build) & [Astro Dev Portal](https://portal.astro.build)
+- [BeJS Podcast](https://youtube.com/playlist?list=PL53Z0yyYnpWjYhOQsrYk20paiQ8uRhXJz)
 
-## 🎤 Upcoming talks & events
-
-- [DevDays Europe](https://devdays.lt/) - 20 May - Vilnius, Lithuania
-
-## 📝 Latest Blogposts
+## 📝 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
-- [These Aren&#39;t the Hosts You&#39;re Looking For](https://www.elian.codes/blog/26-06-09-these-arent-the-hosts-youre-looking-for)
-- [PHP Deployments Aren&#39;t Anywhere Near JavaScript Maturity](https://www.elian.codes/blog/26-06-06-php-deployments-vs-js-maturity)
-- [Why is self-hosting still this painful in 2026?](https://www.elian.codes/blog/26-04-19-why-self-hosting-is-still-painful)
-- [Astro Docs Gets an MCP Server &lpar;And It&#39;s Pretty Cool&rpar;](https://www.elian.codes/blog/25-10-18-astro-docs-gets-an-mcp-server)
-- [Why Most Restaurant Websites Suck &lpar;and What To Do About It&rpar;](https://www.elian.codes/blog/25-09-05-why-most-restaurant-websites-suck)
 <!-- BLOG-POST-LIST:END -->
 
-## 📉 Some statistics
+All articles are on [elian.codes/blog](https://www.elian.codes/blog) ([RSS](https://www.elian.codes/blog.xml)).
 
-![@ElianCodes most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eliancodes&theme=light&hide=css,HTML,Jupyter%20Notebook&layout=compact&langs_count=20)
 [![@ElianCodes Astro contributions](https://astro.badg.es/v2/contributor/ElianCodes.svg)](https://astro.badg.es/contributor/ElianCodes/)
 
 ## ✏️ Get in touch
 
-*Feel free to DM me on any platform*
+[Email](https://www.elian.codes/mail) · [Bluesky](https://www.elian.codes/bluesky) · [LinkedIn](https://www.elian.codes/linkedin) · [𝕏](https://www.elian.codes/x) · [Mastodon](https://www.elian.codes/mastodon) · [Threads](https://www.elian.codes/threads) · [YouTube](https://www.elian.codes/youtube) · [everything else](https://www.elian.codes/links)
 
-- [𝕏 (formerly Twitter)](https://www.elian.codes/x)
-- [Threads](https://www.elian.codes/threads)
-- [Mastodon](https://www.elian.codes/mastodon)
-- [Bluesky](https://www.elian.codes/bluesky)
-- [LinkedIn](https://www.elian.codes/linkedin)
-- [email me](https://www.elian.codes/mail)
-- check [my website](https://www.elian.codes)
+### ☕️ Sponsor me
 
-### ☕️ Leave me a tip
-
-Sponsoring me enables me to work on open-source projects outside my regular working hours or buy equipment, software licenses, hardware, and anything else I might need. I also sponsor other people - [see who I'm sponsoring](https://github.com/ElianCodes?tab=sponsoring)
+Sponsoring lets me work on open source outside working hours and pay for equipment and licenses. I sponsor others too: [see who](https://github.com/ElianCodes?tab=sponsoring).
 
 [![Sponsor me on GitHub](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/eliancodes)
