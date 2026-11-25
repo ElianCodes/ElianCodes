@@ -47,11 +47,11 @@ Side projects:
 ## 📝 Latest articles
 
 <!-- BLOG-POST-LIST:START -->
+- [I Rebuilt My Website &lpar;Again&rpar;. This Time With Astro 7, Vite+ and Void.](https://www.elian.codes/blog/26-11-25-rewriting-my-website-astro-vite-plus-void)
 - [Aurora 1.16.0 brings IPTV, TV remotes and a cinema on Quest](https://www.elian.codes/blog/26-11-23-aurora-1-16-0)
 - [These Aren&#39;t the Hosts You&#39;re Looking For](https://www.elian.codes/blog/26-06-09-these-arent-the-hosts-youre-looking-for)
 - [PHP Deployments Aren&#39;t Anywhere Near JavaScript Maturity](https://www.elian.codes/blog/26-06-06-php-deployments-vs-js-maturity)
 - [Why is self-hosting still this painful in 2026?](https://www.elian.codes/blog/26-04-19-why-self-hosting-is-still-painful)
-- [Astro Docs Gets an MCP Server &lpar;And It&#39;s Pretty Cool&rpar;](https://www.elian.codes/blog/25-10-18-astro-docs-gets-an-mcp-server)
 <!-- BLOG-POST-LIST:END -->
 
 All articles are on [elian.codes/blog](https://www.elian.codes/blog) ([RSS](https://www.elian.codes/blog.xml)).
